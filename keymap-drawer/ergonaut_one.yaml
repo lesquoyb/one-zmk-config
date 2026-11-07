@@ -67,7 +67,7 @@ layers:
   - '*'
   - (
   - )
-  - {t: LSHIFT(NON US BACKSLASH), h: Ctrl}
+  - {t: '|', h: Ctrl}
   - {t: '=', h: Alt}
   - '1'
   - '2'
@@ -79,7 +79,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - {t: \, h: Alt}
+  - {t: NUBS, h: Alt}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}

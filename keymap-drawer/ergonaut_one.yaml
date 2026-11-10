@@ -67,7 +67,7 @@ layers:
   - '*'
   - (
   - )
-  - {t: LSHIFT(NON US BACKSLASH), h: Ctrl}
+  - {t: Sft+\, h: Ctrl}
   - {t: '=', h: Alt}
   - '1'
   - '2'
